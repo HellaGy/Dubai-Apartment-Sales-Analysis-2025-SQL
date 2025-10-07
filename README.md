@@ -1,5 +1,5 @@
 # 🏙️ Dubai Apartment Sales Analysis (Jan–Sep 2025)
-**SQL-based analysis of Dubai apartment sales to uncover investment trends and value insights.**
+**SQL-based analysis of Dubai apartment sales to uncover investment trends and value insights.**  
 *A data-driven approach to finding smart property investment opportunities.*
 
 ---

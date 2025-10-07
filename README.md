@@ -88,10 +88,14 @@ To complement the SQL analysis, the following visuals highlight key market trend
 ![Top 15 Dubai Neighborhoods by Transaction Volume](1_Top15_Dubai_Neighborhoods.png)
 
 ### 2. JVC Transaction Volume Per Apartment Type
-![JVC Transaction Volume Per Apartment Type](2_JVC_Transaction_Volume.png)
+<p align="center">
+  <img src="2_JVC_Transaction_Volume.png" alt="JVC Transaction Volume Per Apartment Type" width="60%">
+</p>
 
 ### 3. JVC Price And Size Relationship
-![JVC Price And Size Relationship](3_JVC_Price_Size_Relationship.png)
+<p align="center">
+  <img src="3_JVC_Price_Size_Relationship.png" alt="JVC Price And Size Relationship" width="60%">
+</p>
 
 
 ---

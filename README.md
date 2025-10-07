@@ -97,6 +97,9 @@ Jumeirah Village Circle has the highest transaction volume during the reviewed p
 ---
 
 📅 *Created October 2025*  
-👤 *Author: Hella Gyergyák*  
-📍 *Data Source: Dubai Land Department (DLD) – Publicly available transaction data*
+👤 **Author:** Hella Gyergyák  
+📍 *Data Source:* Dubai Land Department (DLD) – Publicly available transaction data  
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hellagyergyak/)
+
 

@@ -85,13 +85,14 @@ Jumeirah Village Circle has the highest transaction volume during the reviewed p
 To complement the SQL analysis, the following visuals highlight key market trends and JVC-specific insights:
 
 ### 1. Top 15 Dubai Neighborhoods by Transaction Volume
-![Top 15 Dubai Neighborhoods by Transaction Volume](1_Top 15 Dubai Neighborhoods by Transaction Volume.png)
+![Top 15 Dubai Neighborhoods by Transaction Volume](1_Top15_Dubai_Neighborhoods.png)
 
 ### 2. JVC Transaction Volume Per Apartment Type
-![JVC Transaction Volume Per Apartment Type](2_JVC Transaction Volume Per Apartment Type.png)
+![JVC Transaction Volume Per Apartment Type](2_JVC_Transaction_Volume.png)
 
 ### 3. JVC Price And Size Relationship
-![JVC Price And Size Relationship](3_JVC Price And Size Relationship.png)
+![JVC Price And Size Relationship](3_JVC_Price_Size_Relationship.png)
+
 
 ---
 

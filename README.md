@@ -10,7 +10,7 @@
 ---
 
 ### 💡 Project Overview
-This SQL-based analysis explores **Dubai’s apartment market from January to September 2025**, helping investors identify where opportunities lie — by price trends, area performance, and property characteristics.
+This SQL-based analysis explores **Dubai’s free-hold apartment market from January to September 2025**, helping investors identify where opportunities lie — by price trends, area performance, and property characteristics.
 
 Through a series of analytical SQL tables, we turn raw real estate data into actionable insights.  
 We focus especially on **Jumeirah Village Circle (JVC)** — the area with the highest number of transactions during this period — to understand how apartment types and sizes shape affordability and returns.
